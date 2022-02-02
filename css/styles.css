@@ -34,3 +34,14 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+
+.box{
+    background: fuchsia;
+    text-align: center;
+}
+
+.box2{
+    background: violet;
+    text-align: center;
+}
